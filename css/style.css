@@ -1,0 +1,30 @@
+@import url('../css/main.css');
+@import url('../css/core.css');
+@import url('../css/checkbox.css');
+@import url('../css/header.css');
+@import url('../css/button.css');
+@import url('../css/payment.css');
+@import url('../css/footer.css');
+@import url('../css/calc.css');
+:root {
+    --color-white: #fff;
+    --color-black: #2D3436;
+    --color-gray-64: #5C5C5C;
+    --color-gray-48: #858585;
+    --color-gray-32: #ADADAD;
+    --color-gray-24: #C2C2C2;
+    --color-pink-light: #FD79A8;
+    --color-rgba-gray: rgba(194, 194, 194, 0.24);
+    --font-family-r: InterR, sans-serif;
+    --font-family-m: InterM500, sans-serif;
+    --font-family-b-700: InterB700, sans-serif;
+    --font-family-b-800: InterExtraBold800, sans-serif;
+    --font-family-b-900: InterExtraBold900, sans-serif;
+    --animation-speed: .3s;
+    --animation-func: ease;
+    --animation: var(--animation-speed) var(--animation-func);
+}
+
+:root {
+    --font-family-r: RobotoR, sans-serif;
+}
